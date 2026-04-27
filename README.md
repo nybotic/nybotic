@@ -1,1 +1,1 @@
-[![nybotic website](hello world)](https://nybotic.github.io)
+[![nybotic website](helloworld)](https://nybotic.github.io)
