@@ -1,1 +1,1 @@
-<img src="./banner.png" align="right"> 
+<img src="./banner.gif" align="right"> 
