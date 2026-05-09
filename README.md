@@ -1,1 +1,1 @@
-<img src="./stickman.png" align="right" alt="Stickman climbing"> 
+<img src="./banner.png" align="right"> 
